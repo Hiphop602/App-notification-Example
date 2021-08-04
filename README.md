@@ -1,2 +1,4 @@
-# App-notification-Example
-An example of how to make a notifier :)
+# An example of a Notifier
+
+
+# How to install plyer 
